@@ -33,5 +33,5 @@
   }
 
   setInterval(c, 100);
-  setInterval(u, 100);
+  setInterval(u, 10);
 })(angular);
