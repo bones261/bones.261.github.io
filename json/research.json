@@ -3,12 +3,12 @@
     "key": "research-cpv",
     "name": "CP violation",
     "description": "CP symmetry is broken!",
-    "cost_increase": 1.1,
+    "cost_increase": 1.01,
     "image": "assets/icons/png/CPV.png",
     "info": "html/CPV.html",
     "state": {
       "reputation": 1e0,
-      "cost": 1e1,
+      "cost": 1e2,
       "info_levels": [ 1, 5, 10, 15, 20 ]
     }
   },
@@ -94,7 +94,7 @@
     "key": "research-boscillations",
     "name": "B oscillation",
     "description": "B mesons turn into their antiparticles and vice versa!",
-    "cost_increase": 1.25,
+    "cost_increase": 1.01,
     "image": "assets/icons/png/BBbar.png",
     "info": "html/BBbar.html",
     "state": {
@@ -120,7 +120,7 @@
     "key": "research-dstars",
     "name": "D*s?",
     "description": "The first ever observed heavy flavored spin-3 particle.",
-    "cost_increase": 1.15,
+    "cost_increase": 1.01,
     "image": "assets/icons/png/Dstar_s.png",
     "info": "html/Dstar_s.html",
     "state": {
