@@ -32,6 +32,6 @@
     });
   }
 
-  setInterval(c, 10);
-  setInterval(u, 100);
+  setInterval(c, 1000);
+  setInterval(u, 1000);
 })(angular);
