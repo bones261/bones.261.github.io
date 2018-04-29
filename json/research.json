@@ -29,7 +29,7 @@
     "key": "research-tau",
     "name": "t lepton",
     "description": "The third generation charged lepton.",
-    "cost_increase": 1.6,
+    "cost_increase": 1.01,
     "image": "assets/icons/png/tau.png",
     "info": "html/tau.html",
     "state": {
