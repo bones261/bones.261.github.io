@@ -3,7 +3,7 @@
     "key": "workers-masterstudents",
     "name": "Master Students",
     "description": "Cheap and enthusiastic workforce, they can save you a lot of work.",
-    "cost_increase": 1.01,
+    "cost_increase": 1.05,
     "state": {
       "cost": 4e1,
       "rate": 1e0

@@ -3,7 +3,7 @@
     "key": "research-cpv",
     "name": "CP violation",
     "description": "CP symmetry is broken!",
-    "cost_increase": 1.01,
+    "cost_increase": 1.1,
     "image": "assets/icons/png/CPV.png",
     "info": "html/CPV.html",
     "state": {
