@@ -268,7 +268,7 @@
   },
   {
     "key": "upgrade-nobel1",
-    "name": "Køtbullar",
+    "name": "Kötbullar",
     "description": "Delicious Swedish Meatballs that are (probably) served at the Nobel Prize ceremony.",
     "effect": "Nobel Laureates produce +3M data per second.",
     "icon": "fa-group",
@@ -291,7 +291,7 @@
   {
     "key": "upgrade-nobel3",
     "name": "Summer Vacation",
-    "description": "At this point in their carreer your Nobel Laureates can afford to take a vacation once in a while.",
+    "description": "At this point in their career your Nobel Laureates can afford to take a vacation once in a while.",
     "effect": "Nobel Laureates produce twice as much data per second.",
     "icon": "fa-group",
     "cost": 3e10,
@@ -696,7 +696,7 @@
     "cost": 7500,
     "targets": [{ "key": "research-cpv", "property": "reputation" }],
     "requirements": [{ "key": "research-cpv", "property": "level", "threshold": 5 }],
-    "constant": 2
+    "factor": 2
   },
   {
     "key": "upgrade-inspire",
@@ -744,6 +744,7 @@
     "requirements": [
       { "key": "research-cpv", "property": "level", "threshold": 15 },
       { "key": "upgrade-lhc", "property": "used", "threshold": 1 }
-    ]
+    ],
+    "constant": 1e6
   }
 ]
